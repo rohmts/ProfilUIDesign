@@ -34,7 +34,7 @@
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
 
             <ImageView
-                android:id="@+id/imageView_edit"
+                android:id="@+id/imageView_edit_profile"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentEnd="true"
